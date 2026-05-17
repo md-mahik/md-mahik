@@ -1,8 +1,5 @@
 <!-- Modern Developer GitHub Profile README --><!-- Modern Developer GitHub Profile README -->
-
-<p align="center">
-  <img src=https://i.ibb.co.com/TDV6DZrf/ width="100%"/>
-</p>
+<a href="https://ibb.co.com/jkB2DzH9"><img src="https://i.ibb.co.com/Wvqwf0sN/image.png" alt="image" height="500" width="100%" border="0"></a>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&&lines=Hey%2C+I'm+Mahik-Islam+👋;Front-End+Developer..." alt="Typing SVG" />
